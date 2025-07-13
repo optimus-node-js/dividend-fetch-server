@@ -80,7 +80,7 @@ async function fetchDividendData() {
     }
 }
 
-app.get('/fetch', async (req, res) => {
+app.get('/', async (req, res) => {
     try {
         console.log("Fetching latest dividend data from Moneycontrol...");
         const raw_data = await fetchDividendData();
