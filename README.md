@@ -26,8 +26,6 @@ node index.js
 
 Deploys to Vercel as-is via `vercel.json`.
 
-**Related:** [AlgoDividend](https://github.com/optimus-node-js/AlgoDividend) · [Dividend-Fetcher](https://github.com/optimus-node-js/Dividend-Fetcher)
-
 ---
 
 ## Author
